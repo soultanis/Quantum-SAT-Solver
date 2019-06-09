@@ -1,0 +1,4 @@
+c This is an example DIMACS 3-sat file with unique satisfying solution: 1 2 0
+p cnf 2 2
+1 2 0
+1 -2 0
